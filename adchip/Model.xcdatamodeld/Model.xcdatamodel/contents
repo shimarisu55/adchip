@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<model type="com.apple.IDECoreDataModeler.DataModel" documentVersion="1.0" lastSavedToolsVersion="15702" systemVersion="18G87" minimumToolsVersion="Automatic" sourceLanguage="Swift" userDefinedModelVersionIdentifier="">
+    <entity name="KeywordListEntity" representedClassName=".KeywordListEntity" syncable="YES">
+        <attribute name="keyword" attributeType="String" defaultValueString="あどちっぷ"/>
+        <attribute name="timer1" attributeType="Date" defaultDateTimeInterval="621865620" usesScalarValueType="NO"/>
+        <attribute name="timer2" optional="YES" attributeType="Date" usesScalarValueType="NO"/>
+        <attribute name="timer3" optional="YES" attributeType="Date" usesScalarValueType="NO"/>
+        <attribute name="timer4" optional="YES" attributeType="Date" usesScalarValueType="NO"/>
+    </entity>
+    <elements>
+        <element name="KeywordListEntity" positionX="-63" positionY="-18" width="128" height="118"/>
+    </elements>
+</model>
